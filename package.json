@@ -1,0 +1,17 @@
+{
+  "name": "liyy-micro-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qiankun": "^2.7.4"
+  },
+  "devDependencies": {
+    "vite": "^3.0.9"
+  }
+}
